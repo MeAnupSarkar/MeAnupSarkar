@@ -27,7 +27,7 @@
 > Experienced in developing highly scalable responsive application with RESTful API.
 > Have working knowledge in Design Patterns, SOLID & Cloud Platforms. Have industry experience of developing & implementing Enterprise Application for different companies.
 
-> Technical Knowledge:
+### Technical Proficiency:
 
 1. In love with C# and Java.
    Also code in Php , C , C++
