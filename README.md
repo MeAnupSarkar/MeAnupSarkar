@@ -24,41 +24,31 @@
 
 Over 3.5 years of demonstrated experience in designing, architecting and supporting enterprise-level internet scale services/solutions hosted on Cloud and On-premise technologies. Experience working closely with Software Engineering, especially in the aspects of system performance, capacity management and scalability to ensure sustained service stability & Business KPI's.
 
-### Technical Proficiency:
+### 💻 Technical Proficiency:
 
-#### Software Development Life Cycle
+#### ♻️ Software Development Life Cycle
 Creating vision, Ideation & design thinking, estimates & planning, develop, test, deploy, maintenance, project management & innovation using technologies.
-
-#### Specialization
+#### 🌎 Specialization
 Full Stack Web Development
 Android Application Development
-
-#### Architectures and Principles
+#### ⌨️ Architectures and Principles
 SPA, SOLID, MVC, MVVM, MVP, Micro front-ends
-
-#### Programming languages
+#### 🖱️ Programming languages
 C# (.Net), JAVA, Typescript, Php, C/C++
-
-#### Web Technologies
+#### 🌐 Web Technologies
 ASP.Net Core/MVC, EF/EF Core, React, Redux, Webpack, jQuery, CodeIgniter, Syncfusion, jQuery DataTable , HTML5, CSS3
-
-#### Data Management
+#### 🖥️ Data Management
 MS SQL Server, MySQL, SQLite, Azure SQL DB,
 SSIS, SSRS, SSDT, Crystal Report, RDLC Report
-
-#### Cloud
+#### ☁️ Cloud
 Azure (App Services, VM, SQL Database), 
 CI/CD : GitHub Actions, Azure DevOps 
-
-#### Machine Learning
+#### 🤖 Machine Learning
 Computer Vision using OpenCV & JAVACV
-
-#### Framework & Library
+#### ☳ Framework & Library
 Android Room, Retrofit, JavaFX, OpenCV, LINQ, Entity Framework, Automapper, Select2
-
-#### Other
+#### 💾 Other
 Parallel Processing & Concurrency in C#, Generic, Reflections, Dependency Injection
-
 
 ### 💻 Open Source Contributions
 
