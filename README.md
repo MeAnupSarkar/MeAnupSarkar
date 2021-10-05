@@ -26,8 +26,9 @@ Over 3.5 years of demonstrated experience in designing, architecting and support
 
 ### 💻 Technical Proficiency:
 
-###### **♻️ Software Development Life Cycle : ** Creating vision, Ideation & design thinking, estimates & planning, develop, test, deploy, maintenance, project management & innovation using technologies.
-###### **🌎 Specialization : **Full Stack Web Development , Android Application Development
+**♻️ Software Development Life Cycle : ** Creating vision, Ideation & design thinking, estimates & planning, develop, test, deploy, maintenance, project management & innovation using technologies.
+<br/>
+**🌎 Specialization : **Full Stack Web Development , Android Application Development
 ###### **⌨️ Architectures and Principle : ** SPA, SOLID, MVC, MVVM, MVP, Micro front-ends
 ###### **🖱️ Programming languages : ** C# (.Net), JAVA, Typescript, Php, C/C++
 ###### **🌐 Web Technologies : ** ASP.Net Core/MVC, EF/EF Core, React, Redux, Webpack, jQuery, CodeIgniter, Syncfusion, jQuery DataTable , HTML5, CSS3
