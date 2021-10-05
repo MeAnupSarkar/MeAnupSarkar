@@ -22,27 +22,45 @@
  </a>
 </p>
 
-> Experienced Web & Mobile Application Development with almost 4 years of professional experience in the development & implementation of using .Net technologies in complete Software Development Life Cycle.
-> Specialized in C# , Java , .Net Core/MVC , Javascript , React & other cutting edge modern technologies.
-> Experienced in developing highly scalable responsive application with RESTful API.
-> Have working knowledge in Design Patterns, SOLID & Cloud Platforms. Have industry experience of developing & implementing Enterprise Application for different companies.
+Over 3.5 years of demonstrated experience in designing, architecting and supporting enterprise-level internet scale services/solutions hosted on Cloud and On-premise technologies. Experience working closely with Software Engineering, especially in the aspects of system performance, capacity management and scalability to ensure sustained service stability & Business KPI's.
 
 ### Technical Proficiency:
 
-1. In love with C# and Java.
-   Also code in Php , C , C++
-2. .Net Core/MVC, Entity Framework/Core, LINQ
-3. React, Redux , Typescript , Syncfusion
-4. Android With JAVA, Room persistence library
-5. Azure (App Services, VM, Sql Database), CI/CD : Azure DevOps
-6. MS SQL Server, MySQL, SSIS, SSRS, SSDT, Server Agent
-7. Parallel Processing & Concurrency in C#,Generic, Dependency Injection
-8. Automapper, JavaFX, CodeIgniter, OpenCV,Bootstrap, jQuery
-9. Algorithm & Data Structure
-10. Crystal Report, RDLC, jQuery Datatable
-11. IOS (Beginner)
+#### Software Development Life Cycle
+Creating vision, Ideation & design thinking, estimates & planning, develop, test, deploy, maintenance, project management & innovation using technologies.
 
-#### 💻 Open Source Contributions
+#### Specialization
+Full Stack Web Development
+Android Application Development
+
+#### Architectures and Principles
+SPA, SOLID, MVC, MVVM, MVP, Micro front-ends
+
+#### Programming languages
+C# (.Net), JAVA, Typescript, Php, C/C++
+
+#### Web Technologies
+ASP.Net Core/MVC, EF/EF Core, React, Redux, Webpack, jQuery, CodeIgniter, Syncfusion, jQuery DataTable , HTML5, CSS3
+
+#### Data Management
+MS SQL Server, MySQL, SQLite, Azure SQL DB,
+SSIS, SSRS, SSDT, Crystal Report, RDLC Report
+
+#### Cloud
+Azure (App Services, VM, SQL Database), 
+CI/CD : GitHub Actions, Azure DevOps 
+
+#### Machine Learning
+Computer Vision using OpenCV & JAVACV
+
+#### Framework & Library
+Android Room, Retrofit, JavaFX, OpenCV, LINQ, Entity Framework, Automapper, Select2
+
+#### Other
+Parallel Processing & Concurrency in C#, Generic, Reflections, Dependency Injection
+
+
+### 💻 Open Source Contributions
 
 - 💥 [ExoVisix](https://github.com/MeAnupSarkar/ExoVisix): Auto Attendance System Using Real Time Face Recognition With Various Computer Vision & Machine Learning Tools
 - 🛒 [XEOCORP Bulk Card Generator](https://github.com/MeAnupSarkar/Xeocorp-Card-Generator-JavaFX): Generate Bulk/Multiple Business Card by reading files from folder
