@@ -35,7 +35,7 @@ Over 3.5 years of demonstrated experience in designing, architecting and support
 
  **🖱️ Programming languages :** C# (.Net), JAVA, Typescript, Php, C/C++
  
-**🌐 Web Technologies :** .Net Core/MVC, EF/EF Core, React, Redux, Webpack, jQuery, CodeIgniter, Syncfusion, jQuery DataTable , HTML5, CSS3
+**🌐 Web Technologies :** .Net Core/MVC, EF/EF Core, React, Redux, Webpack, jQuery, CodeIgniter, Syncfusion, DataTable, HTML5, CSS3
 
 **🖥️ Data Management :** MS SQL Server, MySQL, SQLite, Azure SQL DB, SSIS, SSRS, SSDT, Crystal Report, RDLC Report
 
