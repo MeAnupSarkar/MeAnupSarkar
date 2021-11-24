@@ -1,5 +1,5 @@
 
-<h1 align="center">Hello World !  I'm Anup Sarkar 👋</h1>
+<h1 align="center">Hello World!  I'm Anup Sarkar 👋</h1>
 
 <p align="center"> 
  <a href="https://www.facebook.com/mr.anupsarkar/" alt="Anup's twitter">
@@ -23,7 +23,7 @@
  </a>
 </p>
 
-Over 3.5 years of demonstrated experience in designing, architecting and supporting enterprise-level internet scale services/solutions hosted on Cloud and On-premise technologies. Experience working closely with Software Engineering, especially in the aspects of system performance, capacity management and scalability to ensure sustained service stability & Business KPI's.
+Having 4 years of demonstrated experience in designing, architecting and supporting enterprise-level internet scale services/solutions hosted on Cloud and On-premise technologies. Experience working closely with Software Engineering, especially in the aspects of system performance, capacity management and scalability to ensure sustained service stability & Business KPI's.
 
 ### 💻 Technical Proficiency:
 
