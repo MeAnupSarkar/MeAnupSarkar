@@ -71,35 +71,30 @@ Pragmatic, versatile, forward-looking Software Engineer with 4+ years’ backgro
 
 <p align="center">
   <a href="https://dotnet.microsoft.com/">
-    <img src="https://www.vectorlogo.zone/logos/dotnet/dotnet-ar21.svg" alt="dotnet" style="vertical-align:top; margin:4px;">
+    <img src="https://drive.google.com/uc?export=view&id=1XZy8GBfx4uBDCSWG8qq8tMax5B-8dTp4"    >
   </a>
   <a href="https://dotnet.microsoft.com/">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg" height="60px" alt="dotnet" style="vertical-align:top; margin:4px;">
+    <img src="https://drive.google.com/uc?export=view&id=1Wzrn_lWXvL3ll0KyuNwHU1LKgFbWII6p"    >
   </a>
   <a href="https://dotnet.microsoft.com/apps/aspnet/web-apps/blazor">
-    <img src="https://blog.wildix.com/wp-content/uploads/2020/06/react-logo.jpg" alt="Blazor" height="60px" style="vertical-align:top; margin:4px;height">
+    <img src="https://drive.google.com/uc?export=view&id=1ObGtnNLm91pNVsmIhQWWKeFpFq7ls4yU"    >
   </a>
    <a href="#">
-    <img src="https://www.oracle.com/a/tech/img/cb88-java-logo-001.jpg" height="60px" style="vertical-align:top; margin:4px">
+    <img src="https://drive.google.com/uc?export=view&id=1xCUu4fNjjFks9HEXi4mPBvVDmH3Nwkm6"    >
   </a>
   <a href="">
-    <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg" alt="typescript" style="vertical-align:top; margin:4px;">
+   <img src="https://drive.google.com/uc?export=view&id=1Hg-pb9IFo7FGAAQswTIRvQ3IBWO-LcsM"    >
   </a>  
   <a href="">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Android_robot_head.svg/1200px-Android_robot_head.svg.png" alt="docker" style="vertical-align:top; margin:4px;height:40px">
+   <img src="https://drive.google.com/uc?export=view&id=1xld9xaax8PMv-L-4l-I8w9Hqgb66CDvJ"    >
   </a>
    <a href="#">
-    <img src="https://redux.js.org/img/redux-logo-landscape.png" alt="rabbitmq" style="vertical-align:top; margin:4px;height:60px">
+   <img src="https://drive.google.com/uc?export=view&id=1ETr3vJBfMcCmBed3OscwI07PPfUQH5yH"    >
   </a>
   <a href="#">
-    <img src="https://cdn.holistics.io/landing/databases/sqlserver.png" alt="openshift" style="vertical-align:top; margin:4px;height:60px">
+    <img src="https://drive.google.com/uc?export=view&id=1fI3FbESPuHkldP-fwWqVqvHuX6dQMAwO"    >
   </a>
-  <a href="https://www.github.com">
-    <img src="https://www.vectorlogo.zone/logos/github/github-ar21.svg" alt="github" style="vertical-align:top; margin:4px">
-  </a>
-  <a href="#">
-    <img src="https://etzglobal.com/wp-content/uploads/2019/09/Azure-logo.png" alt="git-scm" style="vertical-align:top; margin:4px;height:60px">
-  </a>
+ 
 </p>
 <br/>
 
