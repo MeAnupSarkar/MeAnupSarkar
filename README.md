@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/iamanup" alt="Anup's LeetCode">
-   <img src="https://img.shields.io/badge/-CodeWithAnup-9cf?style=flat-square&logo=leetcode&logoColor=orange&link=https://www.linkedin.com/in/iamanup" />
+   <img src="https://img.shields.io/badge/-LeetCode-9cf?style=flat-square&logo=leetcode&logoColor=orange&link=https://www.linkedin.com/in/iamanup" />
  </a>
  <a href="https://www.facebook.com/mr.anupsarkar/" alt="Anup's twitter">
    <img src="https://img.shields.io/badge/-@mr.anupsarkar-%231DA1F2?style=flat-square&logo=facebook&logoColor=ffffff" />
