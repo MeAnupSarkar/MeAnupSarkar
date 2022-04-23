@@ -1,5 +1,5 @@
 
-<h1 align="center">Hello World!  I'm Anup Sarkar 👋</h1>
+<h1 align="center">Hello World!  I'm </ Anup Sarkar > 💡</h1>
 
 <p align="center"> 
  <a href="https://www.facebook.com/mr.anupsarkar/" alt="Anup's twitter">
@@ -11,11 +11,11 @@
  <a href="https://www.linkedin.com/in/iamanup" alt="Anup's linkedin">
    <img src="https://img.shields.io/badge/-iamanup-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/iamanup" />
  </a>
- <a href="https://www.youtube.com/c/CodeWithAnup" alt="mukesh's blog">
+ <a href="https://www.youtube.com/c/CodeWithAnup" alt="Anup's YT channel">
     <img src="https://img.shields.io/badge/-CodeWithAnup-9cf?style=flat-square&logo=youtube&logoColor=red&link=https://www.linkedin.com/in/iamanup" />
  </a>
 
-  <a href="http://xeocorp.com/" alt="mukesh's blog">
+  <a href="http://xeocorp.com/" alt="Anup's Website">
    <img src="https://img.shields.io/badge/Xeocorp.com-blueviolet?style=flat-square" />
  </a>
  <a>
@@ -23,29 +23,29 @@
  </a>
 </p>
 
-Having 4 years of demonstrated experience in designing, architecting and supporting enterprise-level internet scale services/solutions hosted on Cloud and On-premise technologies. Experience working closely with Software Engineering, especially in the aspects of system performance, capacity management and scalability to ensure sustained service stability & Business KPI's.
+Pragmatic, versatile, forward-looking Software Engineer with 4+ years’ background in creating and executing innovative software solutions to enhance business productivity. Highly experienced in all aspects of the SDLC & end-to-end project management by creating vision, ideation & design thinking, estimates & planning, develop, test, deploy and maintenance.
 
 ### 💻 Technical Proficiency:
 
-**♻️ Software Development Life Cycle :** Creating vision, Ideation & design thinking, estimates & planning, develop, test, deploy, maintenance, project management & innovation using technologies.
+**♻️ SDLC :** Creating vision, Ideation & design thinking, estimates & planning, develop, test, deploy, maintenance, PM & innovation using technologies..
 
-**🌎 Specialization :** Full Stack Web Development , Android Application Development
+**🌎 Specialization :** Full Stack Web Application Development , Android Application Development
 
-**⌨️ Architectures and Principle :** SPA, SOLID, MVC, MVVM, MVP, Micro front-ends
+**⌨️ Architectures and Principle :** SOLID, DDD, SPA, MVC , Micro front-ends
 
- **🖱️ Programming languages :** C# (.Net), JAVA, Typescript, Php, C/C++
+**🖱️ Programming languages :** C# (expert), JAVA (proficient), Typescript (proficient), C/C++ (prior experience), Php
  
-**🌐 Web Technologies :** .Net Core/MVC, EF/EF Core, React, Redux, Webpack, jQuery, CodeIgniter, Syncfusion, DataTable, HTML5, CSS3
+**🌐 Web Technologies :** ASP.NET Core/Framework, EF Core, EF 6, Idenity Server, Microsoft Identity, Angular, CodeIgniter
 
-**🖥️ Data Management :** MS SQL Server, MySQL, SQLite, Azure SQL DB, SSIS, SSRS, SSDT, Crystal Report, RDLC Report
+**☳ Framework & Library :**  jQuery, JavaFx, Antd Design, Syncfusion, Google Maps SDK, Android Jetpack Navigation, Android Room, Retrofit, LINQ, Automapper, Select2
 
- **☁️ Cloud :** Azure (App Services, VM, SQL Database), CI/CD : GitHub Actions, Azure DevOps 
+**🖥️ Data Management :** MS SQL Server(expert), MySQL (proficient), SQLite, Azure SQL DB, SSIS, SSRS, SSDT, Crystal Report, RDLC Report
+
+**☁️ Cloud :** Azure (App Services, VM, SQL Database), CI/CD : GitHub Actions, Azure DevOps 
  
-**🤖 Machine Learning :** Computer Vision using OpenCV & JAVACV
+**🤖 Machine Learning :** Computer Vision using OpenCV & JavaCV
 
-**☳ Framework & Library :** Android Room, Retrofit, JavaFX, OpenCV, LINQ, Entity Framework, Automapper, Select2
-
- **💾 Other :** Parallel Processing & Concurrency in C#, Generic, Reflections, Dependency Injection
+**💾 Other :** Parallel Processing & Concurrency in C#, Generics, Reflections, Dependency Injection
 
 ### 💻 Open Source Contributions
 
@@ -57,7 +57,7 @@ Having 4 years of demonstrated experience in designing, architecting and support
 #### Trivia
 
 - 🦸 Endorse me / Leave a Recommendation on Linkedin [@iamanup](https://www.linkedin.com/in/iamanup/)
-- 🦸 Career Aim - Work Abroad, work with a global team for a cool Product!
+- 🦸 Career Aim - 1. Work for FAANG  2.develop something revolutionary  that will used by million people.
 
 ---
 <p align="center">
