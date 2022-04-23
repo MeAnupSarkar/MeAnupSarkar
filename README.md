@@ -57,7 +57,7 @@ Pragmatic, versatile, forward-looking Software Engineer with 4+ years’ backgro
 #### Trivia
 
 - 🦸 Endorse me / Leave a Recommendation on Linkedin [@iamanup](https://www.linkedin.com/in/iamanup/)
-- 🦸 Career Aim - 1. Work for FAANG  2.develop something revolutionary  that will used by million people.
+- 🦸 Career Aim - Work for FAANG. Develop something revolutionary  that will used by millions of  people.
 
 ---
 <p align="center">
@@ -89,7 +89,7 @@ Pragmatic, versatile, forward-looking Software Engineer with 4+ years’ backgro
    <img src="https://drive.google.com/uc?export=view&id=1xld9xaax8PMv-L-4l-I8w9Hqgb66CDvJ"    >
   </a>
    <a href="#">
-   <img src="https://drive.google.com/uc?export=view&id=1ETr3vJBfMcCmBed3OscwI07PPfUQH5yH"    >
+   <img src="https://drive.google.com/uc?export=view&id=1ETr3vJBfMcCmBed3OscwI07PPfUQH5yH"  width="150" height="150">
   </a>
   <a href="#">
     <img src="https://drive.google.com/uc?export=view&id=1fI3FbESPuHkldP-fwWqVqvHuX6dQMAwO"    >
