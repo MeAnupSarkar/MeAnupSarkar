@@ -1,5 +1,5 @@
 
-<h1 align="center">Hello World!  I'm  Anup Sarkar   💡</h1>
+<h1 align="center">Hello, World!  I'm  Anup Sarkar 💡</h1>
 
 <p align="center"> 
  <a href="https://www.facebook.com/mr.anupsarkar/" alt="Anup's twitter">
@@ -89,7 +89,7 @@ Pragmatic, versatile, forward-looking Software Engineer with 4+ years’ backgro
    <img src="https://drive.google.com/uc?export=view&id=1xld9xaax8PMv-L-4l-I8w9Hqgb66CDvJ"    >
   </a>
    <a href="#">
-   <img src="https://drive.google.com/uc?export=view&id=1ETr3vJBfMcCmBed3OscwI07PPfUQH5yH"  width="150" height="150">
+   <img src="https://drive.google.com/uc?export=view&id=1lAI9BcEzbbn6XpnEfwr3QtGkquG7wk7t"  >
   </a>
   <a href="#">
     <img src="https://drive.google.com/uc?export=view&id=1fI3FbESPuHkldP-fwWqVqvHuX6dQMAwO"    >
